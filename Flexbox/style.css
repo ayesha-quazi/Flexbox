@@ -1,0 +1,49 @@
+#container{
+    height: 300px;
+    width: 80%;
+    background-color: bisque;
+    margin: 10px auto;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    }
+
+h1{
+    text-align: center;
+}
+
+#v{
+    background-color: violet;
+}
+
+#i{
+    background-color: indigo;
+}
+
+#b{
+    background-color: blue;
+}
+
+#g{
+    background-color: green;
+}
+
+#y{
+    background-color: yellow;
+}
+
+#o{
+    background-color: orange;
+}
+
+#r{
+    background-color: red;
+}
+
+#container div{
+    height: 100px;
+    width: 300px;
+    color: white;
+    text-align: center;
+    font-size: 1.5em;
+}
